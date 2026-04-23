@@ -36,7 +36,16 @@ README.md → Project documentation
 Clone the repository
 Install required libraries (pandas, matplotlib)
 Run the Python script or Jupyter Notebook
+
 🚀 Future Improvements
 Add interactive dashboards using tools like Power BI or Tableau
 Implement predictive analysis for future sales trends
 Enhance visualizations for better insights
+
+## 📊 Sample Visualizations
+
+### Monthly Sales Trend
+![Sales Trend](Sales_trend.png)
+
+### Revenue by City
+![Revenue City](city_revenue.png)
